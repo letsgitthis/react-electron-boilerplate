@@ -1,7 +1,7 @@
 
 # react-electron-boilerplate
 
-## Table of Conetents
+## Table of Contents
 
 * [Description](#description)
 * [Installation](#installation)
