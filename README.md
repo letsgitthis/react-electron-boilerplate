@@ -1,2 +1,2 @@
-# reract-electron-boilerplate
+# react-electron-boilerplate
 Bare bones and basic.
